@@ -19,7 +19,7 @@
         productos promodel = null;
         %>
         <div class="container">
-             <h1>Tingo's SV</h1>
+             <h1>Tingo's App</h1>
             <div class="row">
                 <%
                     while (iterator.hasNext()){
